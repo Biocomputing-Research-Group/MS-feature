@@ -1,0 +1,251 @@
+480:
+total features count for height-480 width-270 and overlap 1/4: 4693 features and 7553 images
+total features count for height-480 width-270 and overlap 1/3: 4662 features and 5684 images
+total features count for height-480 width-270 and overlap 1/2: 4585 features and 3786 images
+total features count for height-480 width-270 and overlap 1/1: 3409 features and 1901 images
+
+240:
+PXD010357-lungcancer-19: 61 features and 90 images
+PXD010357-lungcancer-20: 730 features and 1203 images
+B20190306xiangn_CRCD_DIA_b3_3: 760 features and 1271 images
+PXD004684-lungcancer-296-2: 763 features and 1146 images
+PXD010357-lungcancer-Huara: 730 features and 1297 images
+PXD006096-lungcancer-2: 411 features and 686 images
+PXD006096-lungcancer-3: 287 features and 473 images
+PXD006096-lungcancer-1: 422 features and 698 images
+total features count for height-240 width-270 and overlap 1/4: 4164 features and 6864 images
+PXD010357-lungcancer-19: 54 features and 66 images
+PXD010357-lungcancer-20: 719 features and 890 images
+B20190306xiangn_CRCD_DIA_b3_3: 749 features and 944 images
+PXD004684-lungcancer-296-2: 750 features and 857 images
+PXD010357-lungcancer-Huara: 721 features and 953 images
+PXD006096-lungcancer-2: 400 features and 511 images
+PXD006096-lungcancer-3: 271 features and 364 images
+PXD006096-lungcancer-1: 407 features and 536 images
+total features count for height-240 width-270 and overlap 1/3: 4071 features and 5121 images
+PXD010357-lungcancer-19: 42 features and 43 images
+PXD010357-lungcancer-20: 673 features and 590 images
+B20190306xiangn_CRCD_DIA_b3_3: 708 features and 647 images
+PXD004684-lungcancer-296-2: 708 features and 563 images
+PXD010357-lungcancer-Huara: 684 features and 651 images
+PXD006096-lungcancer-2: 349 features and 341 images
+PXD006096-lungcancer-3: 236 features and 237 images
+PXD006096-lungcancer-1: 358 features and 353 images
+total features count for height-240 width-270 and overlap 1/2: 3758 features and 3425 images
+PXD010357-lungcancer-19: 18 features and 18 images
+PXD010357-lungcancer-20: 420 features and 304 images
+B20190306xiangn_CRCD_DIA_b3_3: 438 features and 314 images
+PXD004684-lungcancer-296-2: 418 features and 276 images
+PXD010357-lungcancer-Huara: 420 features and 318 images
+PXD006096-lungcancer-2: 210 features and 178 images
+PXD006096-lungcancer-3: 139 features and 118 images
+PXD006096-lungcancer-1: 214 features and 178 images
+total features count for height-240 width-270 and overlap 1/1: 2277 features and 1704 images
+
+720:
+PXD010357-lungcancer-19: 66 features and 54 images
+PXD010357-lungcancer-20: 686 features and 259 images
+B20190306xiangn_CRCD_DIA_b3_3: 701 features and 259 images
+PXD004684-lungcancer-296-2: 702 features and 217 images
+PXD010357-lungcancer-Huara: 722 features and 299 images
+PXD006096-lungcancer-2: 394 features and 218 images
+PXD006096-lungcancer-3: 293 features and 177 images
+PXD006096-lungcancer-1: 402 features and 218 images
+total features count for height-720 width-270 and overlap 1/1: 3966 features and 1701 images
+PXD010357-lungcancer-19: 92 features and 112 images
+PXD010357-lungcancer-20: 805 features and 512 images
+B20190306xiangn_CRCD_DIA_b3_3: 828 features and 514 images
+PXD004684-lungcancer-296-2: 823 features and 450 images
+PXD010357-lungcancer-Huara: 826 features and 588 images
+PXD006096-lungcancer-2: 475 features and 424 images
+PXD006096-lungcancer-3: 342 features and 338 images
+PXD006096-lungcancer-1: 477 features and 428 images
+total features count for height-720 width-270 and overlap 1/2: 4668 features and 3366 images
+PXD010357-lungcancer-19: 94 features and 166 images
+PXD010357-lungcancer-20: 808 features and 763 images
+B20190306xiangn_CRCD_DIA_b3_3: 831 features and 768 images
+PXD004684-lungcancer-296-2: 824 features and 670 images
+PXD010357-lungcancer-Huara: 833 features and 864 images
+PXD006096-lungcancer-2: 504 features and 650 images
+PXD006096-lungcancer-3: 364 features and 511 images
+PXD006096-lungcancer-1: 508 features and 657 images
+total features count for height-720 width-270 and overlap 1/3: 4766 features and 5049 images
+PXD010357-lungcancer-19: 112 features and 234 images
+PXD010357-lungcancer-20: 808 features and 1014 images
+B20190306xiangn_CRCD_DIA_b3_3: 831 features and 1022 images
+PXD004684-lungcancer-296-2: 828 features and 905 images
+PXD010357-lungcancer-Huara: 835 features and 1166 images
+PXD006096-lungcancer-2: 498 features and 852 images
+PXD006096-lungcancer-3: 358 features and 685 images
+PXD006096-lungcancer-1: 499 features and 865 images
+total features count for height-720 width-270 and overlap 1/4: 4769 features and 6743 images
+
+/Users/mac/Desktop/Research/venv/bin/Python /Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py --mode=client --port=57706
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['/Users/mac/Desktop/Research'])
+Python 3.8.9 (default, Oct 26 2021, 07:25:53) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.0.1 -- An enhanced Interactive Python. Type '?' for help.
+PyDev console: using IPython 8.0.1
+Python 3.8.9 (default, Oct 26 2021, 07:25:53) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+runfile('/Users/mac/Desktop/Research/proteins/img_generator.py', wdir='/Users/mac/Desktop/Research/proteins')
+PXD010357-lungcancer-19: 92 features and 2997 images
+PXD010357-lungcancer-20: 805 features and 2997 images
+B20190306xiangn_CRCD_DIA_b3_3: 828 features and 2728 images
+PXD004684-lungcancer-296-2: 823 features and 3888 images
+PXD010357-lungcancer-Huara: 826 features and 2997 images
+PXD006096-lungcancer-2: 475 features and 4851 images
+PXD006096-lungcancer-3: 342 features and 4851 images
+PXD006096-lungcancer-1: 477 features and 4851 images
+total features count for height-720 width-270 and overlap 1/2: 4668 features and 30160 images
+PXD010357-lungcancer-19: 91 features and 2268 images
+PXD010357-lungcancer-20: 804 features and 2268 images
+B20190306xiangn_CRCD_DIA_b3_3: 820 features and 2046 images
+PXD004684-lungcancer-296-2: 816 features and 2916 images
+PXD010357-lungcancer-Huara: 821 features and 2268 images
+PXD006096-lungcancer-2: 464 features and 3663 images
+PXD006096-lungcancer-3: 332 features and 3663 images
+PXD006096-lungcancer-1: 475 features and 3663 images
+total features count for height-720 width-270 and overlap 1/3: 4623 features and 22755 images
+PXD010357-lungcancer-19: 86 features and 2025 images
+PXD010357-lungcancer-20: 797 features and 2025 images
+B20190306xiangn_CRCD_DIA_b3_3: 810 features and 1860 images
+PXD004684-lungcancer-296-2: 804 features and 2592 images
+PXD010357-lungcancer-Huara: 807 features and 2025 images
+PXD006096-lungcancer-2: 467 features and 3267 images
+PXD006096-lungcancer-3: 334 features and 3267 images
+PXD006096-lungcancer-1: 470 features and 3267 images
+total features count for height-720 width-270 and overlap 1/4: 4575 features and 20328 images
+/Users/mac/Desktop/Research/venv/bin/Python /Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py --mode=client --port=57757
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['/Users/mac/Desktop/Research'])
+Python 3.8.9 (default, Oct 26 2021, 07:25:53) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.0.1 -- An enhanced Interactive Python. Type '?' for help.
+PyDev console: using IPython 8.0.1
+Python 3.8.9 (default, Oct 26 2021, 07:25:53) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+runfile('/Users/mac/Desktop/Research/proteins/img_generator.py', wdir='/Users/mac/Desktop/Research/proteins')
+PXD010357-lungcancer-19: 88 features and 4536 images
+PXD010357-lungcancer-20: 786 features and 4536 images
+B20190306xiangn_CRCD_DIA_b3_3: 815 features and 4154 images
+PXD004684-lungcancer-296-2: 808 features and 5832 images
+PXD010357-lungcancer-Huara: 803 features and 4617 images
+PXD006096-lungcancer-2: 471 features and 7425 images
+PXD006096-lungcancer-3: 335 features and 7425 images
+PXD006096-lungcancer-1: 479 features and 7425 images
+total features count for height-480 width-270 and overlap 1/2: 4585 features and 45950 images
+PXD010357-lungcancer-19: 75 features and 3402 images
+PXD010357-lungcancer-20: 773 features and 3402 images
+B20190306xiangn_CRCD_DIA_b3_3: 803 features and 3162 images
+PXD004684-lungcancer-296-2: 786 features and 4374 images
+PXD010357-lungcancer-Huara: 787 features and 3483 images
+PXD006096-lungcancer-2: 443 features and 5544 images
+PXD006096-lungcancer-3: 314 features and 5544 images
+PXD006096-lungcancer-1: 454 features and 5544 images
+total features count for height-480 width-270 and overlap 1/3: 4435 features and 34455 images
+PXD010357-lungcancer-19: 78 features and 3078 images
+PXD010357-lungcancer-20: 759 features and 3078 images
+B20190306xiangn_CRCD_DIA_b3_3: 787 features and 2790 images
+PXD004684-lungcancer-296-2: 773 features and 3888 images
+PXD010357-lungcancer-Huara: 751 features and 3078 images
+PXD006096-lungcancer-2: 408 features and 4950 images
+PXD006096-lungcancer-3: 298 features and 4950 images
+PXD006096-lungcancer-1: 419 features and 4950 images
+total features count for height-480 width-270 and overlap 1/4: 4273 features and 30762 images
+/Users/mac/Desktop/Research/venv/bin/Python /Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py --mode=client --port=57807
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['/Users/mac/Desktop/Research'])
+Python 3.8.9 (default, Oct 26 2021, 07:25:53) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.0.1 -- An enhanced Interactive Python. Type '?' for help.
+PyDev console: using IPython 8.0.1
+Python 3.8.9 (default, Oct 26 2021, 07:25:53) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+runfile('/Users/mac/Desktop/Research/proteins/img_generator.py', wdir='/Users/mac/Desktop/Research/proteins')
+PXD010357-lungcancer-19: 42 features and 9234 images
+PXD010357-lungcancer-20: 673 features and 9234 images
+B20190306xiangn_CRCD_DIA_b3_3: 708 features and 8432 images
+PXD004684-lungcancer-296-2: 708 features and 11826 images
+PXD010357-lungcancer-Huara: 684 features and 9315 images
+PXD006096-lungcancer-2: 349 features and 14949 images
+PXD006096-lungcancer-3: 236 features and 14949 images
+PXD006096-lungcancer-1: 358 features and 14949 images
+total features count for height-240 width-270 and overlap 1/2: 3758 features and 92888 images
+PXD010357-lungcancer-19: 35 features and 6966 images
+PXD010357-lungcancer-20: 574 features and 6885 images
+B20190306xiangn_CRCD_DIA_b3_3: 609 features and 6324 images
+PXD004684-lungcancer-296-2: 626 features and 8910 images
+PXD010357-lungcancer-Huara: 594 features and 6966 images
+PXD006096-lungcancer-2: 298 features and 11187 images
+PXD006096-lungcancer-3: 215 features and 11286 images
+PXD006096-lungcancer-1: 321 features and 11286 images
+total features count for height-240 width-270 and overlap 1/3: 3272 features and 69810 images
+PXD010357-lungcancer-19: 28 features and 6156 images
+PXD010357-lungcancer-20: 559 features and 6156 images
+B20190306xiangn_CRCD_DIA_b3_3: 570 features and 5642 images
+PXD004684-lungcancer-296-2: 570 features and 7938 images
+PXD010357-lungcancer-Huara: 559 features and 6237 images
+PXD006096-lungcancer-2: 249 features and 9999 images
+PXD006096-lungcancer-3: 179 features and 9999 images
+PXD006096-lungcancer-1: 274 features and 9999 images
+total features count for height-240 width-270 and overlap 1/4: 2988 features and 62126 images
+/Users/mac/Desktop/Research/venv/bin/Python /Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py --mode=client --port=57890
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['/Users/mac/Desktop/Research'])
+Python 3.8.9 (default, Oct 26 2021, 07:25:53) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.0.1 -- An enhanced Interactive Python. Type '?' for help.
+PyDev console: using IPython 8.0.1
+Python 3.8.9 (default, Oct 26 2021, 07:25:53) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+runfile('/Users/mac/Desktop/Research/proteins/img_generator.py', wdir='/Users/mac/Desktop/Research/proteins')
+PXD010357-lungcancer-19: 66 features and 1539 images
+PXD010357-lungcancer-20: 686 features and 1539 images
+B20190306xiangn_CRCD_DIA_b3_3: 701 features and 1364 images
+PXD004684-lungcancer-296-2: 702 features and 1944 images
+PXD010357-lungcancer-Huara: 722 features and 1539 images
+PXD006096-lungcancer-2: 394 features and 2475 images
+PXD006096-lungcancer-3: 293 features and 2475 images
+PXD006096-lungcancer-1: 402 features and 2475 images
+total features count for height-720 width-270 and overlap 1/1: 3966 features and 15350 images
+/Users/mac/Desktop/Research/venv/bin/Python /Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py --mode=client --port=57912
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['/Users/mac/Desktop/Research'])
+Python 3.8.9 (default, Oct 26 2021, 07:25:53) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.0.1 -- An enhanced Interactive Python. Type '?' for help.
+PyDev console: using IPython 8.0.1
+Python 3.8.9 (default, Oct 26 2021, 07:25:53) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+runfile('/Users/mac/Desktop/Research/proteins/img_generator.py', wdir='/Users/mac/Desktop/Research/proteins')
+PXD010357-lungcancer-19: 49 features and 2268 images
+PXD010357-lungcancer-20: 601 features and 2268 images
+B20190306xiangn_CRCD_DIA_b3_3: 626 features and 2108 images
+PXD004684-lungcancer-296-2: 640 features and 2916 images
+PXD010357-lungcancer-Huara: 605 features and 2349 images
+PXD006096-lungcancer-2: 321 features and 3762 images
+PXD006096-lungcancer-3: 226 features and 3762 images
+PXD006096-lungcancer-1: 341 features and 3762 images
+total features count for height-480 width-270 and overlap 1/1: 3409 features and 23195 images
+/Users/mac/Desktop/Research/venv/bin/Python /Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py --mode=client --port=57926
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['/Users/mac/Desktop/Research'])
+Python 3.8.9 (default, Oct 26 2021, 07:25:53) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.0.1 -- An enhanced Interactive Python. Type '?' for help.
+runfile('/Users/mac/Desktop/Research/proteins/img_generator.py', wdir='/Users/mac/Desktop/Research/proteins')
+PyDev console: using IPython 8.0.1
+Python 3.8.9 (default, Oct 26 2021, 07:25:53) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+PXD010357-lungcancer-19: 18 features and 4617 images
+PXD010357-lungcancer-20: 420 features and 4617 images
+B20190306xiangn_CRCD_DIA_b3_3: 438 features and 4216 images
+PXD004684-lungcancer-296-2: 418 features and 5913 images
+PXD010357-lungcancer-Huara: 420 features and 4698 images
+PXD006096-lungcancer-2: 210 features and 7524 images
+PXD006096-lungcancer-3: 139 features and 7524 images
+PXD006096-lungcancer-1: 214 features and 7524 images
+total features count for height-240 width-270 and overlap 1/1: 2277 features and 46633 images
+
