@@ -12,3 +12,9 @@ A deep learning-based feature detection tool for feature detection in Liquid Chr
 
 ## Run
 #### 
+- Put source .mzml files into the ```data_prep/src``` folder
+- Run ```mzml_to_img.ipynb``` jupyter notebook
+- Adjust the height and width parameters in the first two lines ```generate_windows.ipynb``` for the sizes of the sliding windows. The default of 240x270 has been applied as stated in the paper.
+- Run the first 4 cells of ```generate_windows.ipynb```. You should expect the windows in the folder named ```img_(height)_(width)```. 
+- Execute ```predict.py```, changing line 11 to the folder generated from the last step.
+
