@@ -1,5 +1,5 @@
 # MS-feature
-A deep learning-based feature detection tool for feature detection in Liquid Chromotography-Mass Spectrometry (LC-MS). Details available in [Deep Learning Based MS2 Feature Detection for Data-Independent Shotgun Proteomics](https://ieeexplore.ieee.org/abstract/document/9995258/metrics).
+A deep learning-based feature detection tool for feature detection in Liquid Chromotography-Mass Spectrometry (LC-MS). Details available in [Deep Learning Based MS2 Feature Detection for Data-Independent Shotgun Proteomics](https://ieeexplore.ieee.org/abstract/document/9995258/metrics). The folder for Faster-RCNN framework is forked from [here](https://github.com/harshatejas/pytorch_custom_object_detection).
 
 ## Dependencies
 - python==3.8
